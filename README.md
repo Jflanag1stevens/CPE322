@@ -21,6 +21,7 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 - THe Pittsburg Steelers
 - F1
 
+![Picture of Me with my friends](./assets/readme/friends.jpg)
 
 ##### Class Labs
 1. GHDL and GTKWave

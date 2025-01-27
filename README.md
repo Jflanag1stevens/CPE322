@@ -10,6 +10,8 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 
 > The mystery of life isn't a problem to solve, but a reality to experience. - Dune, Frank Herbert
 
+<sub> The Dune series is my favorite book series. Im am currently reading book #3 right now, _Children of Dune_ </sub>
+
 ##### Favorite Website
 
 [travle.earth](https://travle.earth/)

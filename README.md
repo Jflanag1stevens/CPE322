@@ -14,11 +14,26 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 
 [travle.earth](https://travle.earth/)
 
-**Projects**
-1. Assignment 0
-2. List 2
-3. List 3
-4. List 4
+##### My Hobbies
+- Reading
+- Video Games
+- The New York Yankees
+- THe Pittsburg Steelers
+- F1
+
+
+##### Class Labs
+1. GHDL and GTKWave
+2. Command Line
+3. Python
+4. Django and Flask
+5. Paho-MQTT
+6. Node.js and Pystache
+7. ThingSpeak and Google Sheets
+8. Data Analysis
+9. YANG
+10. Blockchain
+
 
 
 

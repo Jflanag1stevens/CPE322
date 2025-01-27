@@ -17,8 +17,11 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 ##### My Hobbies
 - Reading
 - Video Games
-- The New York Yankees
-- THe Pittsburg Steelers
+- Baseball
+  - The Yankees
+- NFL
+  - The Pittsburg Steelers
+  - LA Rams
 - F1
 
 ##### My Friends!

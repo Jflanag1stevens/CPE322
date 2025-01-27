@@ -10,6 +10,9 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 
 > The mystery of life isn't a problem to solve, but a reality to experience. - Dune, Frank Herbert
 
+##### Favorite Website
+
+[travle.earth](https://travle.earth/)
 
 **Projects**
 1. Assignment 0

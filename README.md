@@ -55,6 +55,6 @@ def gnot(x):
     assert x in [0,1]
     return int(not(x))
 ```
-<sub> Code for a not gate in python </sub>
+<sub> Code for a not gate in Python </sub>
 
 

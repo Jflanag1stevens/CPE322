@@ -4,6 +4,13 @@ _Electrical Engineering Student at Stevens Instiute of Technology_
 
 ---
 
+##### Team Project Website 
+https://begonia-prism-5lls.squarespace.com/
+[https://begonia-prism-5lls.squarespace.com/](https://begonia-prism-5lls.squarespace.com/)
+
+Password: Stevens
+
+
 ##### About Me
 
 I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With my degree I hope to have a career where I am able to work with **embedded systems** to create various devices.

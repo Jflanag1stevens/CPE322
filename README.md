@@ -43,7 +43,7 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 ---
 
 ##### Class Labs
-1. GHDL and GTKWave
+1. [GHDL and GTKWave](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab1)
 2. Command Line
 3. Python
 4. Django and Flask

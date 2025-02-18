@@ -1,5 +1,5 @@
 ### James Flanagan
-#### Lab 1
+#### Lab 1 GHDL and GTKWave
 ---
 Half Adder Example
 ---

@@ -3,16 +3,22 @@
 ---
 Installations
 ---
-![](installations.png)
+![](hostname.png)
+![](env.png)
+![](cdiotls.png)
+![](demodirectory.png)
+![](gitclone.png)
 
-I already had jdcal, astral, and geopy installed on my computer, so when I tried installing them I was informed that I already met the requirements for them
+![](ipconfig.png)
+![](ping.png)
+![](ps.png)
+![](pwd.png)
+![](uname.png)
 
 ---
 Programs
 ---
-![](julian_moon.png)
-![](coordinates_battery.png)
-![](documentstats.png)
+
 
 All of the programs ran successfully except for cpu.py, because I was migging the psutil module. After installing this modulue with pip3 cpu.py ran perfectly.
 

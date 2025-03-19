@@ -1,25 +1,48 @@
 ### James Flanagan
 #### Lab 2 Command Line
 ---
-Installations
+Commands
 ---
 ![](hostname.png)
+hostname
+
 ![](env.png)
-![](cdiotls.png)
-![](demodirectory.png)
+
+env
+
+![](ps.png)
+
+ps
+
+![](pwd.png)
+
+pwd
+
 ![](gitclone.png)
 
-![](ipconfig.png)
-![](ping.png)
-![](ps.png)
-![](pwd.png)
+git clone
+
+![](cdiotls.png)
+
+cd and ls
+
+![](df.png)
+
+df
+
+![](demodirectory.png)
+
+Directory and file manipulation with mkdir, nano, cat, cp, mv, and rm
+
 ![](uname.png)
 
----
-Programs
----
+uname
 
+![](ipconfig.png)
 
-All of the programs ran successfully except for cpu.py, because I was migging the psutil module. After installing this modulue with pip3 cpu.py ran perfectly.
+ipconfig
 
-It was neat to see how much you can do with Python libraries. I had no idea that were were already made libraries that could get all of the moon phaseses or locate places from their gps coordinates.
+![](ping.png)
+
+ping and netstat
+

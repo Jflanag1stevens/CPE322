@@ -44,11 +44,11 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 
 ##### Class Labs
 1. [GHDL and GTKWave](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab1)
-2. Command Line
+2. [Command Line](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab2)
 3. [Python](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab3)
-4. Django and Flask
-5. Paho-MQTT
-6. Node.js and Pystache
+4. [Django and Flask](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab4)
+5. [Paho-MQTT](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab5)
+6. [Node.js and Pystache](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab6)
 7. ThingSpeak and Google Sheets
 8. Data Analysis
 9. YANG

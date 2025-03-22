@@ -7,6 +7,7 @@ Installations
 Pystache installation using pip
   ![](node.png)
 I already hade node and npm installed from previous projects, these are the versions I currently have
+
 ---
 Node.js
 ---
@@ -26,5 +27,18 @@ Node.js
   ![](httpsjs.png)
 
   The last node.js file I ran, https.js, runs a webpage that displays "This page was refreshed X times!" where X is the number of times the page was refreshed. In the terminal, each time the page is refreshed the terminal outputs the number of times the page has been refreshed - 1
-
+  
+---
+Pystache
+---
   ![](pystache2.png)
+
+  After installing pystache I ran the example code from Lesson 6
+  ```
+  cd ~/iot/lesson6
+  cat say_hello.mustache
+  cat say_hello.py
+  python say_hello.py
+  ```
+  The results of this code can be seen above
+  

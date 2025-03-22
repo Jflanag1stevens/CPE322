@@ -50,8 +50,8 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 5. [Paho-MQTT](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab5)
 6. [Node.js and Pystache](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab6)
 7. [ThingSpeak and Google Sheets](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab7)
-8. Data Analysis
-9. YANG
+8. [Data Analysis](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab8)
+9. [YANG](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab9)
 10. Blockchain
 
 

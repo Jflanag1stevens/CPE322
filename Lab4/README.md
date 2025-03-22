@@ -1,5 +1,14 @@
-![](FlaskCmd.png)
-![](flaskSite.png)
+Weather Sation
+---
+![](stevensstart.png)
+![](settingsnano.png)
+![](stevensstatic.png)
+
+![](weatherstation.png)
+
+---
+My Cpu
+---
 ![](myCPUsite.png)
 ![](myCpumigrations.png)
 ![](mycpuadminetc.png)
@@ -7,7 +16,8 @@
 ![](mycpuindex.png)
 ![](mycpusettings.png)
 ![](mycpuurls.png)
-![](settingsnano.png)
-![](stevensstatic.png)
-![](stevensstart.pnt)
-![](weatherstation.png)
+---
+Flask Hello World
+---
+![](FlaskCmd.png)
+![](flaskSite.png)

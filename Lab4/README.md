@@ -1,1 +1,5 @@
-
+![](FlaskCmd.png)
+![](flaskSite.png)
+![](myCPUsite.png)
+![](myCpumigrations.png)
+![]("mycpuadminetc.png")

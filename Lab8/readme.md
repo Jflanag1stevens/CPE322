@@ -1,1 +1,13 @@
+![](copyingsheet.png)
+![](cv2.png)
+![](figure1.png)
+![](figure2.png)
+![](figure3.png)
+![](figure4.png)
+![](figure5.png)
+![](figure6.png)
+![](libraries2.png)
+![](libraryies1.png)
+![](plt_finaledit.png)
+![](pythonscriptcopy.png)
 

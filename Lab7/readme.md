@@ -1,3 +1,5 @@
+### James Flanagan
+#### Lab 7 ThingSpeak and Google Sheets
 ---
 ThingSpeak
 ---

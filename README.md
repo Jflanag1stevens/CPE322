@@ -52,7 +52,7 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 7. [ThingSpeak and Google Sheets](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab7)
 8. [Data Analysis](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab8)
 9. [YANG](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab9)
-10. Blockchain
+10. [Blockchain](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab10)
 
 
 ##### Code

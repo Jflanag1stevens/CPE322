@@ -6,7 +6,7 @@ _Electrical Engineering Student at Stevens Instiute of Technology_
 
 ##### Team Project Website 
 
-[https://begonia-prism-5lls.squarespace.com/](https://begonia-prism-5lls.squarespace.com/)
+[https://sites.google.com/stevens.edu/cpe322-tps/home](https://sites.google.com/stevens.edu/cpe322-tps/home)
 
 Password: Stevens
 

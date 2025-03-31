@@ -30,7 +30,12 @@ Finally, I used Vim to modify plt_final.py and plt_cv2.py with my csv filename, 
 Results
 ---
 
-
+![](figure1.png)
+![](figure2.png)
+![](figure3.png)
+![](figure4.png)
+![](figure5.png)
+![](figure6.png)
 
 The first 6 plots were displayed after running plt_final.py
 

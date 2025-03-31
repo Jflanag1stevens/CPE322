@@ -24,7 +24,7 @@ I copied plt_final.py and plt_cv2.py to my demo directory
 ![](plt_finaledit.png)
 ![](plt_cv2.png)
 
-Finally, I used Vim to modify plt_final.py and plt_cv2.py with my csv filename, and changed temperature to Memory Available since I used cpu_spreadsheet.py in lab 7, which gave me Memory Available instead of the temperature.
+Finally, I used Vim to modify plt_final.py and plt_cv2.py with my csv filename, and changed temperature to Memory Available since I used cpu_spreadsheet.py in lab 7, which gave me Memory Available instead of the temperature
 
 ---
 Results

@@ -34,13 +34,9 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
   - The Yankees
 - NFL
   - The Pittsburg Steelers
-  - LA Rams
 - F1
 
-##### My Friends!
-![Picture of Me with my friends](./assets/readme/friends.jpg)
 
----
 
 ##### Class Labs
 1. [GHDL and GTKWave](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab1)

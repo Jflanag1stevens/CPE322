@@ -4,39 +4,6 @@ _Electrical Engineering Student at Stevens Instiute of Technology_
 
 ---
 
-##### Team Project Website 
-
-[https://sites.google.com/stevens.edu/cpe322-tps/home](https://sites.google.com/stevens.edu/cpe322-tps/home)
-
-Password: Stevens
-
-
-##### About Me
-
-I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With my degree I hope to have a career where I am able to work with **embedded systems** to create various devices.
-
-##### Favorite Quote
-
-> The mystery of life isn't a problem to solve, but a reality to experience. - Dune, Frank Herbert
-
-<sub> The Dune series is my favorite book series. Im am currently reading book #3 right now, _Children of Dune_ </sub>
-
-
-
-##### Favorite Website
-
-[travle.earth](https://travle.earth/)
-
-##### My Hobbies
-- Reading
-- Video Games
-- Baseball
-  - The Yankees
-- NFL
-  - The Pittsburg Steelers
-- F1
-
-
 
 ##### Class Labs
 1. [GHDL and GTKWave](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab1)
@@ -49,15 +16,5 @@ I am a 3/4 Electrical engineering major at Stevens Institute of Technology. With
 8. [Data Analysis](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab8)
 9. [YANG](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab9)
 10. [Blockchain](https://github.com/Jflanag1stevens/CPE322/tree/main/Lab10)
-
-
-##### Code
-
-```
-def gnot(x):
-    assert x in [0,1]
-    return int(not(x))
-```
-<sub> Code for a not gate in Python </sub>
 
 
